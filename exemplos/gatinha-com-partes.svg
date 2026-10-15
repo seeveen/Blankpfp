@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240">
+ <path id="cauda" data-name="Cauda" data-colorable="true" d="M150 200 Q190 180 180 140" fill="none" stroke="#b36b00" stroke-width="10"/>
+ <ellipse id="corpo" data-name="Corpo" cx="100" cy="190" rx="60" ry="50" fill="#ffffff"/>
+ <circle id="cabeca" data-name="Cabeça" data-colorable="true" cx="100" cy="90" r="50" style="fill:#ffe0b2"/>
+ <path id="orelhas" data-name="Orelhas" data-colorable="true" fill="#ff80ab" d="M60 55 L70 20 L90 48 Z"/>
+ <path id="orelhas" data-name="Orelhas" fill="#ff80ab" d="M140 55 L130 20 L110 48 Z"/>
+ <circle id="olho" data-name="Olho" data-colorable="false" cx="85" cy="90" r="6" fill="#111"/>
+ <circle id="semNome" cx="115" cy="90" r="6" fill="#222222"/>
+ <g id="roupa" data-name="Roupa" data-colorable="true" fill="red">
+   <rect x="70" y="150" width="60" height="30"/>
+   <circle id="botao" data-name="Botão" data-colorable="true" cx="100" cy="165" r="5" fill="#00bcd4"/>
+   <rect data-colorable="false" x="70" y="180" width="60" height="6" fill="#333333"/>
+ </g>
+</svg>
